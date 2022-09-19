@@ -74,3 +74,9 @@ span {
     background-color: aliceblue;
     box-shadow: none;
 }
+
+.main img {
+    width: 350px;
+    border: 7px solid transparent;
+    height: 520px;
+}
